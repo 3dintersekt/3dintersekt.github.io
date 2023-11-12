@@ -44,7 +44,7 @@ export default function Home() {
           Website Under Construction
         </p>
         <p>
-          Email: <a href='mailto:foobar@example.com'>foobar@example.com</a>
+          Email: <a href='mailto:info@3dintersekt.com'>info@3dintersekt.com</a>
         </p>
       </div>
 
