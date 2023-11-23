@@ -18,7 +18,7 @@ export default function Home() {
       
       <div className="relative place-items-center text-xl text-center">
         <p>
-          Email: <a href='mailto:info@3dintersekt.com'>info@3dintersekt.com</a>
+          <a href='mailto:info@3dintersekt.com'>info@3Dintersekt.com</a>
         </p>
       </div>
       
