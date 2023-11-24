@@ -8,10 +8,10 @@ export default function Home() {
         <Image
           className="relative"
           // className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src= "/image001_w1083_h300.jpg"
+          src="/banner_w800_h270.png"
           alt="Next.js Logo"
-          width={541}
-          height={150}
+          width={800}
+          height={270}
           priority
         />
       </div>
