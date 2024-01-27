@@ -18,7 +18,7 @@ export default function Home() {
       
       <div className="relative place-items-center text-xl text-center">
         <p>
-          <a className="contact"  href ="tel:+4167975778">T<span className="orange">|</span> 416-797-5778 </a> <br/>
+          <a className="contact"  href ="tel:+14167975778">T<span className="orange">|</span> 1-416-797-5778 </a> <br/>
           <a className="contact"  href='mailto:info@3dintersekt.com'>E<span className="orange">|</span> info@3Dintersekt.com</a>
         </p>
       </div>
