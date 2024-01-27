@@ -30,6 +30,7 @@ body {
 .contact {
   float: left;
   font-family: var(--font-neuropol);
+  font-size: 16px;
 }
 .orange {
   color:orange;
