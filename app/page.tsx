@@ -9,7 +9,7 @@ export default function Home() {
           className="relative"
           // className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/banner_w800_h270.png"
-          alt="Next.js Logo"
+          alt="Next.js Logo Hello"
           width={800}
           height={270}
           priority
